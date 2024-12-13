@@ -1,0 +1,35 @@
+{
+  "id": "dmkals-animator",
+  "title": "DMkal's animator",
+  "version": "1.0.2",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "sequencer",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "DMkal",
+      "discord": "dmkal",
+      "flags": {}
+    },
+    {
+      "name": "danielrab",
+      "email": "danielrab.work@gmail.com",
+      "discord": "danielrab",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "scripts/main.js",
+    "scripts/settings.js"
+  ]
+}
