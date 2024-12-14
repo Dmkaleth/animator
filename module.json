@@ -31,5 +31,8 @@
   "esmodules": [
     "scripts/main.js",
     "scripts/settings.js"
-  ]
+  ],
+  "url": "https://github.com/Dmkaleth/animator",
+  "manifest": "https://github.com/Dmkaleth/animator/releases/latest/download/module.json",
+  "download": "https://github.com/Dmkaleth/animator/releases/download/1.0.2/module.zip"
 }
